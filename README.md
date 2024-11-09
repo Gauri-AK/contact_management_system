@@ -1,6 +1,6 @@
 
 
-Key Components of Your Program:
+Key Components of the Program:
 
 	1.	Structure Definition (contact):
 	•	You defined a contact structure to hold the name, phone number, and email address of each contact. This is an efficient way to store multiple pieces of information about a contact in a single entity.
