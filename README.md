@@ -1,4 +1,4 @@
-Your C program is well-written and demonstrates the basic functionality of a contact management system. Here’s a brief explanation of how the program works:
+
 
 Key Components of Your Program:
 
